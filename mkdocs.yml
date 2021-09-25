@@ -1,0 +1,41 @@
+site_name: Nbdev-dev
+nav:
+    - Home: index.md
+    - Docs:
+      #- Doc1: doc1.md
+      #- Doc2: doc2.md
+  
+theme:
+  name: material
+  palette:
+    primary: white
+  font:
+    text: Roboto
+  logo: assets/nbdev.png
+  favicon: assets/nbdev.png
+  features:
+    navigation.tabs
+    
+  markdown_extensions:
+    - meta 
+    - toc
+    - pymdownx.highlight:
+        linenums: true
+ 
+  plugins:
+    - search  
+    - tags
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      #link: https://twitter.com/<twitter>
+
+    - icon: fontawesome/brands/medium
+      #link: awsome website
+    
+    - icon: fontawesome/brands/linkedin
+      #link: linkedin
+      
+#repo_url: awsome repo
+#repo_name: awsome name
