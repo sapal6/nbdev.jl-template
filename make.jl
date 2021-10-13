@@ -1,7 +1,8 @@
 using Fire
 
-include("src/Documenter.jl")
-include("src/Export.jl")
+#include("src/Documenter.jl")
+#include("src/Export.jl")
+using Nbdev: Documenter
 
 """
 Build documents for your project\n
