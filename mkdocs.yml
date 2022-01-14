@@ -21,16 +21,16 @@ theme:
     - search  
     - tags
 
-extra:
-  social:
-    - icon: fontawesome/brands/twitter
-      link: 
-
-    - icon: fontawesome/brands/medium
-      link: 
-    
-    - icon: fontawesome/brands/linkedin
-      link: 
-      
-repo_url: 
-repo_name: 
+#extra:
+#  social:
+#    - icon: fontawesome/brands/twitter
+#      link: 
+#
+#    - icon: fontawesome/brands/medium
+#      link: 
+#    
+#    - icon: fontawesome/brands/linkedin
+#      link: 
+#      
+#repo_url: 
+#repo_name: 
